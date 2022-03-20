@@ -7,7 +7,6 @@ require_once($path_dir.'/Post.php');
 require_once($path_dir.'/vk_api.php');
 require_once($path_dir.'/VkApiException.php');
 require_once($path_dir.'/Auth.php');
-require_once($path_dir.'/Group.php');
 require_once($path_dir.'/LongPoll.php');
 require_once($path_dir.'/Coin.php');
 require_once($path_dir.'/Execute.php');
